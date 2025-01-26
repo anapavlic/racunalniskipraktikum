@@ -17,12 +17,44 @@ body {
         preostanek pa se enakomerno razdeli med levim in desnim robom  */
     margin: auto;
     /*  Obojestranska poravnava besedila    */
-    text-align: justify;
+    text-align: left;
 }
 
 h1 {
     color: #330066;
 }
+
+h2 {
+    margin-top: 2em;        /* Zgornji prostor med elementom h2 in prejšnjim elementom */
+    border-top: 1px solid #AAAAAA; /* Zgornji rob širine 1px, barve #AAAAAA in solid stil */
+    padding-top: 0.5em;     /* Notranji prazen prostor zgoraj znotraj h2 */
+}
+
+#uvod {
+    padding: 2em;
+    background-color: rgb( 51, 0, 102, 0.1);
+
+}
+
+.slika img {
+    border: 2px solid red;  /* Debelina 2px, črta solid in rdeča barva */
+    font-size:0.9em;
+    width:100%;
+    height: auto;
+    
+}
+
+.slika p:last-child {
+    float: right;
+    margin-left: 5em;
+    background-color: #cc0000;
+}
+
+
+
+
+
+ 
 
 /*  Odstranimo podčrtovanje povezav in outline (ta se včasih pokaže kot kvadratek okrog povezave)  */
 a { text-decoration: none; outline:none; }
