@@ -1,0 +1,16 @@
+\babel@toc {slovene}{}\relax 
+\contentsline {section}{\numberline {1}Uvod}{2}{}%
+\contentsline {section}{\numberline {2}Matematika}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Primer enačbe}{2}{}%
+\contentsline {section}{\numberline {3}Uvod}{3}{}%
+\contentsline {section}{\numberline {4}Magični kvadrat reda 3}{3}{}%
+\contentsline {section}{\numberline {5}Zgodovina}{3}{}%
+\contentsline {subsection}{\numberline {5.1}Kvadrat ">Lo Shu"<}{3}{}%
+\contentsline {section}{\numberline {6}Kvadrat Lo Shu}{4}{}%
+\contentsline {subsection}{\numberline {6.1}Kulturna pomembnost}{4}{}%
+\contentsline {section}{\numberline {7}Kvadrat Kubera-Kolam}{4}{}%
+\contentsline {subsection}{\numberline {7.1}Zgodnji kvadrati reda 4}{4}{}%
+\contentsline {section}{\numberline {8}Dürerjev magični kvadrat $4 \times 4$}{5}{}%
+\contentsline {section}{\numberline {9}Pasijonska fasada na Sagrada Família}{5}{}%
+\contentsline {section}{\numberline {10}Osnovne lastnosti}{6}{}%
+\contentsline {section}{\numberline {11}Primeri}{7}{}%
